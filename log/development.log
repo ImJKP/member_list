@@ -1439,3 +1439,96 @@ Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.
 
 Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 38.140.30.202 at 2015-11-20 03:18:19 +0000
 Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 38.140.30.202 at 2015-11-20 03:22:15 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT "users".* FROM "users"
+  Rendered users/index.html.erb within layouts/application (11.6ms)
+Completed 200 OK in 221ms (Views: 204.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.self-e4a1e43d4992ead05a4f87459bd7f0c0ca1154288ba1e3223f0a7dcb506d2712.css?body=1" for 38.140.30.202 at 2015-11-20 03:22:15 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 38.140.30.202 at 2015-11-20 03:22:17 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users"[0m
+  Rendered users/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 29ms (Views: 28.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/style.self-de7a3d064c7396b318853ed36abc8a3dacd86620f367654e20bdec383ee93085.css?body=1" for 38.140.30.202 at 2015-11-20 03:22:17 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 38.140.30.202 at 2015-11-20 03:22:17 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e4a1e43d4992ead05a4f87459bd7f0c0ca1154288ba1e3223f0a7dcb506d2712.css?body=1" for 38.140.30.202 at 2015-11-20 03:22:17 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 38.140.30.202 at 2015-11-20 03:22:17 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 38.140.30.202 at 2015-11-20 03:22:17 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 38.140.30.202 at 2015-11-20 03:22:17 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 38.140.30.202 at 2015-11-20 03:22:17 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 38.140.30.202 at 2015-11-20 03:22:17 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 38.140.30.202 at 2015-11-20 03:24:19 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users"
+  Rendered users/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 41ms (Views: 39.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 38.140.30.202 at 2015-11-20 03:24:19 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 38.140.30.202 at 2015-11-20 03:24:19 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 38.140.30.202 at 2015-11-20 03:24:19 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e4a1e43d4992ead05a4f87459bd7f0c0ca1154288ba1e3223f0a7dcb506d2712.css?body=1" for 38.140.30.202 at 2015-11-20 03:24:19 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 38.140.30.202 at 2015-11-20 03:24:19 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/style.self-de7a3d064c7396b318853ed36abc8a3dacd86620f367654e20bdec383ee93085.css?body=1" for 38.140.30.202 at 2015-11-20 03:24:19 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 38.140.30.202 at 2015-11-20 03:24:20 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 38.140.30.202 at 2015-11-20 03:24:20 +0000
+Cannot render console from 38.140.30.202! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
